@@ -214,4 +214,3 @@ while True:
     time.sleep(delay)
 
 hs.mainloop()
-2
